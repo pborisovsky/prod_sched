@@ -1,5 +1,5 @@
 # prod_sched
-Large-scale test instances of one Production scheduling problem for testin metaheuristic algorithms.
+Large-scale test instances of one Production scheduling problem for testing metaheuristic algorithms.
 
 [1] Borisovsky, P., Eremeev, A., Kallrath J.:
     Multi-product continuous plant scheduling: combination of decomposition, 
