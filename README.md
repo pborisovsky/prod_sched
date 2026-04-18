@@ -1,4 +1,4 @@
-# prod_sched
+# Production Scheduling problem
 Large-scale test instances of one Production scheduling problem for testing metaheuristic algorithms.
 
 [1] Borisovsky, P., Eremeev, A., Kallrath J.:
