@@ -1,11 +1,9 @@
 # Production Scheduling problem
 Large-scale test instances of one Production scheduling problem for testing metaheuristic algorithms.
 
-[1] Borisovsky, P., Eremeev, A., Kallrath J.:
-    Multi-product continuous plant scheduling: combination of decomposition, 
-    genetic algorithm, and constructive heuristic. 
-    International Journal of Production Research
-    58(9), 2677-2695 (2020)
+Borisovsky, P., Eremeev, A., Kallrath J. (2020)
+Multi-product continuous plant scheduling: combination of decomposition, 
+genetic algorithm, and constructive heuristic. 
+International Journal of Production Research
+58(9), 2677-2695  https://doi.org/10.1080/00207543.2019.1630764
 
-[2] Borisovsky, P.: A GPU-accelerated "Go with the winners" algorithm for solving a large-scale production 
-scheduling problem. Submitted to Optimization Letters.
