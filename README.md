@@ -23,4 +23,17 @@ list of unit names
 
 Tasks NUMBER_OF_TASKS
 
+list of tasks names
+
+Task_Unit_State_MinAmount_MinTime
+
+list of tasks characteristics: task name, suitable unit, produced state, minimal amount, minimal time (Tmin)
+
+Changeovers
+
+list of changeover times
+
+
+Production rate is calculated as (minimal amount) / (minimal time).
+
 
